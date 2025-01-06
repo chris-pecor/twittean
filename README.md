@@ -6,7 +6,9 @@ clone the repo locally
 
 composer install
 
-copy the .env file
+npm install
+
+copy the .env.example file to .env
 
 ./vendor/bin/sail up -d
 
